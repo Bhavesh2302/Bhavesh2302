@@ -48,3 +48,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavesh2302" alt="bhavesh2302" /></a> </p>
+
+<a href="https://github.com/Bhavesh2302/github-readme-activity-graph">
+  <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bhavesh2302&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
