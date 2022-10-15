@@ -6,29 +6,15 @@
 
  <img align="right" width="450px" height="290px" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
 
-- 🔭 I’m currently working on **ReactJs**
-
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
+- 👯 I’m looking to collaborate on **MERN Stack  related projects**
 
-- 🤝 I love creating webistes using **Full Stack  and learning new technologies**
-
-- 💬 Ask me about **React**
+- 🤝 I love creating webistes using **MERN Stack  and learning new technologies**
 
 - 📫 How to reach me **bhaveshjain2501@gmail.com**
 
 - ⚡ I love **playing games and listening music**
-
-
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
