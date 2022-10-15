@@ -1,7 +1,7 @@
 <img  width="100%" height="250px" src="https://miro.medium.com/max/676/0*RlGEUGQng_v_LtMT.jpeg"/>
 <h1 align="center">Hi 👋, I'm Bhavesh Jain</h1>
 
-<h3 align="center">A passionate React frontend developer from India</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer</h3>
 
  <img align="right" width="450px" height="290px" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
 
@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **React for front-end work**
+- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
-- 🤝 I’m looking for help with **back-end related learning**
+- 🤝 I love creating webistes using **Full Stack  and learning new technologies**
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **bhaveshjain2501@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ I love **playing games and listening music**
 
 
 
