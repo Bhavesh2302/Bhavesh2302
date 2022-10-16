@@ -1,8 +1,9 @@
 <img  width="100%" height="250px" src="https://miro.medium.com/max/676/0*RlGEUGQng_v_LtMT.jpeg"/>
 <h1 align="center">Hi 👋, I'm Bhavesh Jain</h1>
 
-<h3 align="center">An Aspiring Full Stack Web Developer</h3>
-<p>A passionate web developer having keen interest in developing dynamic web applications and always eager to learn new technologies. I'm skilled at MERN stack and have made some cool projects. Do check them out.</p>
+<h2 align="center">An Aspiring Full Stack Web Developer</h2>
+<h3>A passionate web developer having keen interest in developing dynamic web applications and always eager to learn new technologies. I'm skilled at MERN stack and have made some cool projects. Do check them out.</h3>
+<br/>
 
  <img align="right" width="450px" height="290px" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
 
