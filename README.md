@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" gap="20px">
-<a href="https://linkedin.com/in/bhavesh-jain-b86120173/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bhavesh-jain-b86120173/" height="30" width="100" /></a>
- <a href="https://bhavesh-jain-portfolio.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="bhavesh-jain-portfolio" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/bhavesh-jain-b86120173/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bhavesh-jain-b86120173/" height="30" width="100" /></a>
+ <a href="https://bhavesh-jain-portfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="bhavesh-jain-portfolio" height="30" width="100" /></a>
 
 </p>
 
