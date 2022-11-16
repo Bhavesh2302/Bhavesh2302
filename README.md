@@ -50,9 +50,9 @@
 
 
 
-<div style={{display:"flex", gap:"4%" }}><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh2302&show_icons=true&locale=en&layout=compact" alt="bhavesh2302" />
+<div style={{display:"flex", gap:"4%" }}><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavesh2302&show_icons=true&locale=en&layout=compact" alt="bhavesh2302" />
 
-&nbsp;<img  width="55%" src="https://github-readme-stats.vercel.app/api?username=bhavesh2302&show_icons=true&locale=en" alt="bhavesh2302" /></div>
+&nbsp;<img  width="55%" src="https://github-readme-stats.vercel.app/api?username=Bhavesh2302&show_icons=true&locale=en" alt="bhavesh2302" /></div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavesh2302" alt="bhavesh2302" /></a> </p>
