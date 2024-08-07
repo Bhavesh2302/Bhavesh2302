@@ -2,12 +2,10 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Jain</h1>
 
 <h2 align="center">An Aspiring Full Stack Web Developer</h2>
-<h3>A passionate web developer having keen interest in developing dynamic web applications and always eager to learn new technologies. I'm skilled at MERN stack and have made some cool projects. Do check them out.</h3>
+<h3>A passionate web developer having around 2 years of experience in the product-based industry excelling in developing dynamic web applications and always eager to learn new technologies. I'm skilled at MERN | MEAN stack | MySQL and have made some cool projects. Do check them out.</h3>
 <br/>
 
  <img align="right" style="object-fit: cover;width: 100%;height: 290px;" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
-
-- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **MERN Stack  related projects**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **bhaveshjain2501@gmail.com**
 
-- ⚡ I love **playing games and listening music**
+- ⚡ I am **Sports and Music Enthusiast**
 
 
 <h3 align="left">Connect with me:</h3>
