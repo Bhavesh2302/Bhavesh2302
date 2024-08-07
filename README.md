@@ -1,19 +1,21 @@
-<img  width="100%" height="250px" src="https://miro.medium.com/max/676/0*RlGEUGQng_v_LtMT.jpeg"/>
+<img style="object-fit: cover !important; width:100% !important; height: 290px;" src="https://miro.medium.com/max/676/0*RlGEUGQng_v_LtMT.jpeg"/>
 <h1 align="center">Hi 👋, I'm Bhavesh Jain</h1>
 
 <h2 align="center">An Aspiring Full Stack Web Developer</h2>
 <h3>A passionate web developer having around 2 years of experience in the product-based industry excelling in developing dynamic web applications and always eager to learn new technologies. I'm skilled at MERN | MEAN stack | MySQL and have made some cool projects. Do check them out.</h3>
 <br/>
 
- <img align="right" style="object-fit: cover;width: 100%;height: 290px;" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
+ <img align="right" height="290px" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
+ 
+- 👯 I’m looking to collaborate on **MERN Stack  related projects**.
 
-- 👯 I’m looking to collaborate on **MERN Stack  related projects**
+- 🤝 I love creating webistes using **MERN Stack  and learning new technologies**.
 
-- 🤝 I love creating webistes using **MERN Stack  and learning new technologies**
+- 📫 How to reach me **bhaveshjain2501@gmail.com**.
 
-- 📫 How to reach me **bhaveshjain2501@gmail.com**
-
-- ⚡ I am **Sports and Music Enthusiast**
+- ⚡ I am **Sports and Music Enthusiast**.
+ 
+- 📄 [Resume](https://drive.google.com/file/d/1zZ-DtMAUgW--qT4vv2TQYhphqADb5rDw/view?usp=drivesdk)
 
 
 <h3 align="left">Connect with me:</h3>
