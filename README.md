@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Jain</h1>
 
 <h2 align="center">An Aspiring Full Stack Web Developer</h2>
-<h3>A passionate web developer with around 2 years of experience in the product-based industry, excelling in building dynamic and efficient web applications. Skilled in the MERN and MEAN stacks and have expertise in SQL and MySQL. Always eager to explore and learn new technologies, I've worked on some exciting projects— feel free to check them out!</h3>
+<h3>A passionate web developer with around 4 years of experience in the product-based industry and service-based industry, excelling in building dynamic and efficient web applications. Skilled in the MERN and MEAN stacks and have expertise in MongoDB, SQL, and MySQL. Always eager to explore and learn new technologies, I've worked on some exciting projects— feel free to check them out!</h3>
 <br/>
 
  <img align="right" height="290px" src="https://images.unsplash.com/photo-1581309638082-877cb8132535?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"/>
